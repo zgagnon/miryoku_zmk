@@ -3,5 +3,5 @@
 
 outboard_repository=ridingintraffic/zmk-config
 outboard_ref=main
-outboard_from=config/boards/shields/microdox
+outboard_from=config/boards/shields/chocofi
 outboard_to=boards/shields/chocofi
